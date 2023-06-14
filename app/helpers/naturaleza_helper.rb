@@ -1,0 +1,2 @@
+module NaturalezaHelper
+end
